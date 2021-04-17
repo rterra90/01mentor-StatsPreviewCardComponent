@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](solution-desktop-rterra.jpg)
-![](solution-mobile-rterra.jpg)
+![](/solution-desktop-rterra.jpg)
+![](/solution-mobile-rterra.jpg)
 
 ### Links
 
