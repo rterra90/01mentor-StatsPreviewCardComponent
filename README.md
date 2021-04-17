@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://rterra90.github.io/01mentor-StatsPreviewCardComponent/)
+- Live Site URL: [Add live site URL here](https://rterra90.github.io/01mentor-StatsPreviewCardComponent/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 ## Author
 
 - Website - [Rafael Terra](mailto:rterragd@hotmail.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rterra90)
+- Frontend Mentor - [@rterra90](https://www.frontendmentor.io/profile/rterra90)
